@@ -1,4 +1,4 @@
-# DeepSeek-R1
+# DeepSeek-R
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
